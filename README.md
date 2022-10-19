@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![John0liver GitHub stats](https://github-readme-stats.vercel.app/api?username=John0liver&show_icons=true&theme=dracula)
-<p style="text-align: center;">e </p>
+<p style="text-align: center;"> </p>
 <br/>
 
 <!--
