@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![John0liver GitHub stats](https://github-readme-stats.vercel.app/api?username=John0liver&show_icons=true&theme=dracula)
+<p style="text-align: center;">e </p>
+<br/>
+
 <!--
 **John0liver/John0liver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
