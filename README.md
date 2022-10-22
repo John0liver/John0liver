@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![John0liver GitHub stats](https://github-readme-stats.vercel.app/api?username=John0liver&show_icons=true&theme=dracula)
+<p align="left">
+
+![John0liver GitHub stats](https://github-readme-stats.vercel.app/api?username=John0liver&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John0liver&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p style="text-align: center;"> </p>
 <br/>
 
